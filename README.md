@@ -1,6 +1,17 @@
-# advaithbot
-It's a great bot. Totally usable for any kind of operation you want. When  
-users say, "I want a great bot", we point them here. We offer one of the best  
-bots out there, let me tell you. True genius was put into play here.
+# AdvaithBot
+A multipurpose Discord bot, made with [discord.js](https://discord.js.org) and the [Spark framework](https://discordspark.tk).
 
-# Now go make Discord great again.
+How to install:
+1. Clone this repo
+2. Create a file titled `app.js` with the following format:
+```js
+const Spark = require("sparkbots")
+
+Spark.start({
+prefix: "PREFIX_HERE",
+token: "TOKEN_HERE"
+})
+
+var ClientInjRe = require('./express.js')
+```
+Put your prefix and token where it says `PREFIX_HERE` and `TOKEN_HERE`.
