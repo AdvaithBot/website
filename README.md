@@ -11,8 +11,8 @@ The prefix for all commands is `!!`. Customizable prefixes are in development!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 :---:|:---:|:---:|:---:|:---:|:---:
-`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick advaith#9121 bye` | Kick Members
-`ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban advaith#9121 bye` | Ban Members
+`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
+`ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 bye` | Ban Members
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
 
 ## Normal Commands
