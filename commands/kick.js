@@ -1,5 +1,6 @@
 exports.name = "kick"
 exports.level = 0;
+exports.aliases = ["k"]
 
 exports.command = function(client, message) {
 

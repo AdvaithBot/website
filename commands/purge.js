@@ -1,6 +1,6 @@
 exports.name = "purge"
 exports.level = 0;
-exports.aliases = ["clear"]
+exports.aliases = ["clear", "prune", "p"]
 
 exports.command = function(client, message) {
 

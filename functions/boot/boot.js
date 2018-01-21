@@ -16,7 +16,7 @@ setInterval(() => {
     .then(() => console.log('Updated discordbots.org stats.'))
     .catch(err => console.error(`Whoops something went wrong: ${err.body}`));
   
-  //updates playing status: Watching x servers
+  //updates status: Watching x servers
   client.user.setPresence({
           status: "online",
           activity: {
@@ -26,6 +26,15 @@ setInterval(() => {
         })
 }, 3600000)
 
+  // Sets status on boot
+    client.user.setPresence({
+          status: "online",
+          activity: {
+            name: `${client.guilds.size} servers`,
+            type: 3,
+          }
+        })
+  
     console.log("ran boot function")
   
 }
