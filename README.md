@@ -2,6 +2,8 @@ Welcome to the AdvaithBot website.
 
 AdvaithBot is a multipurpose Discord bot.
 
+[Add AdvaithBot to your server!](/invite)
+
 [![Discord Bots](https://discordbots.org/api/widget/398690824721924107.svg)](https://discordbots.org/bot/398690824721924107) [![Discord](https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3)](https://discord.gg/jfSCWE3)
 
 # Commands
