@@ -13,16 +13,16 @@ The prefix for all commands is `!!`. Customizable prefixes are in development!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 :---:|:---:|:---:|:---:|:---:|:---:
-`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
-`ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 bye` | Ban Members
+`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kicks A Member
+`ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 bye` | Bans A Member
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
 
 ## Normal Commands
 
 Command | Aliases | Description | Arguments | Example
 :---:|:---:|:---:|:---:|:---:
-`help` | none | Shows you a list of commands. | none | `!!help`
-`say` | none | Makes the bot say something | What you want it to say (required) | `!!say hi everyone!`
+`help` | none | Shows all commands. | none | `!!help`
+`say` | none | Makes the bot output the text. | What you want it to say (required) | `!!say hi everyone!`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
 `embed` | none | Says what you want in an embed | What you want it to say (required) | `!!embed hi everyone!`
 `flip` | `flipcoin`, `coinflip` | Flips a coin. | none | `!!flip`
