@@ -1,6 +1,6 @@
 exports.name = "serverinfo"
 exports.level = 0; 
-
+exports.aliases = ["server"]
 
 exports.command = function(client, message) {
 

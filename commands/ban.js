@@ -1,5 +1,6 @@
 exports.name = "ban"
 exports.level = 0;
+exports.aliases = ["b", "banne", "bean", "banhammer"]
 
 exports.command = function(client, message) {
 
