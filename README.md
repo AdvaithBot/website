@@ -28,3 +28,5 @@ Command | Aliases | Description | Arguments | Example
 `flip` | `flipcoin`, `coinflip` | Flips a coin. | none | `!!flip`
 `serverinfo` | `server` | Shows some information about the server. | none | `!!serverinfo`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
+
+AdvaithBot was created by [advaith](https://advaith.fun).
