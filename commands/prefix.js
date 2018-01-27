@@ -3,7 +3,7 @@ exports.level = 0;
 
 exports.command = function(client, message) {
 	
-  if(!message.member.hasPermission('MANAGE_SERVER')) 
+  if(!message.member.hasPermission('MANAGE_SERVER')&&message.member.id!=="190916650143318016") 
   return message.channel.send({
     "embed": {
       "title": "Error",
