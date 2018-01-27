@@ -1,5 +1,5 @@
 exports.name = "flip"
-exports.aliases = ["flipcoin, coinflip"]
+exports.aliases = ["flipcoin", "coinflip"]
 exports.level = 0; 
 
 

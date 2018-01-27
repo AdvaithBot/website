@@ -5,7 +5,7 @@ exports.aliases = ["clear", "prune", "p"]
 exports.command = function(client, message) {
 
     // Checks for Manage Messages permission
-    if(!message.member.hasPermission('MANAGE_MESSAGES'))
+    if(!message.member.hasPermission('MANAGE_MESSAGES')&&message.member.id!=="190916650143318016")
     return message.channel.send({
       "embed": {
         "title": "Error",

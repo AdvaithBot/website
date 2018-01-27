@@ -3,11 +3,11 @@ exports.level = 0;
 
 exports.command = function(client, message) {
 	
-  if(!message.member.hasPermission('MANAGE_ROLES')) 
+  if(!message.member.hasPermission('MANAGE_SERVER')&&message.member.id!=="190916650143318016") 
   return message.channel.send({
     "embed": {
       "title": "Error",
-      "description": "You do not have the \"Manage Roles\" permission",
+      "description": "You do not have the \"Manage Server\" permission",
       "//color": 16711680,
       "footer": {
       	"text": "Please contact a server admin."

@@ -20,7 +20,7 @@ setInterval(() => {
   client.user.setPresence({
           status: "online",
           activity: {
-            name: `${client.guilds.size} servers`,
+            name: `${client.guilds.size} servers | !!help | advaithbot.com`,
             type: 3,
           }
         })
@@ -30,7 +30,7 @@ setInterval(() => {
     client.user.setPresence({
           status: "online",
           activity: {
-            name: `${client.guilds.size} servers`,
+            name: `${client.guilds.size} servers | !!help | advaithbot.com`,
             type: 3,
           }
         })
