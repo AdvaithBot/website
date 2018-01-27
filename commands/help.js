@@ -14,7 +14,7 @@ exports.command = function(client, message) {
       },
       {
         "name": "Moderator Commands",
-        "value": "- \`kick\`: Kicks a user\n- \`ban\`: Swings the almighty ban hammer on a user :hammer:\n- \`purge\`: Deletes a specified amount of chat messages. - \'prefix\': Change the character(s) used to call commands. Default is !!"
+        "value": "- \`kick\`: Kicks a user\n- \`ban\`: Swings the almighty ban hammer on a user :hammer:\n- \`purge\`: Deletes a specified amount of chat messages."
       },
       {
         "name": "Normal Commands",
