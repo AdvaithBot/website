@@ -12,7 +12,7 @@ The prefix for all commands is `!!`. Customizable prefixes are in development!
 ## Moderator Commands
 
 Command | Aliases | Description | Arguments | Example | Required Permission
-:---:|:---:|:---:|:---:|:---:|:---:
+---|---|---|---|---|---
 `kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
 `ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 bye` | Ban Members
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
@@ -20,7 +20,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 ## Normal Commands
 
 Command | Aliases | Description | Arguments | Example
-:---:|:---:|:---:|:---:|:---:
+---|---|---|---|---
 `help` | none | Shows you a list of commands. | none | `!!help`
 `say` | none | Makes the bot say something | What you want it to say (required) | `!!say hi everyone!`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
@@ -36,7 +36,7 @@ All these commands use the prefix `/`.
 More coming soon!
 
 Command | Description | Example
-:---:|:---:|:---:|:---:
+---|---|---|---
 `/nick` | Changes your nickname | `/nick new nickname`
 
 AdvaithBot was created by [advaith](https://advaith.fun).
