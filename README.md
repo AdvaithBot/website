@@ -4,7 +4,10 @@ AdvaithBot is a multipurpose Discord bot.
 
 [Add AdvaithBot to your server!](/invite)
 
-[![Discord Bots](https://discordbots.org/api/widget/398690824721924107.svg)](https://discordbots.org/bot/398690824721924107) [![Discord](https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3)](https://discord.gg/jfSCWE3)
+<a href="https://discordbots.org/bot/398690824721924107">
+  <amp-img src="https://discordbots.org/api/widget/398690824721924107.svg" /></amp-img>
+</a>
+<a href="https://discord.gg/jfSCWE3"><amp-img src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" /></amp-img></a>
 
 # Commands
 The prefix for all commands is `!!`. Customizable prefixes are in development!
