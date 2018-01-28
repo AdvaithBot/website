@@ -7,6 +7,7 @@ exports.command = function(client, message) {
   message.channel.send({
   "embed": {
     "title": `**__${client.user.username} Help__**`,
+    "description": "For more information on the commands, click [here](https://advaithbot.com#commands).",
     "fields": [
       {
         "name": "Advaith's Commands",
@@ -19,6 +20,10 @@ exports.command = function(client, message) {
       {
         "name": "Normal Commands",
         "value": "- \`help\`: this\n- \`say\`: Says what you want to say\n- \`ping\`: :ping_pong: Checks how fast the bot is responding\n- \`embed\`: Says what you want in an embed!\n- \`8ball\`: Ask the 8ball a question!\n- \`flip\`: Flips a coin.\n- \`serverinfo\`: Shows some info about the server.\n- \`splash\`: Shows the server's invite splash screen."
+      },
+      {
+        "name": "Clyde Android Commands",
+        "value": "- \`/nick\`: Changes your nickname"
       }
     ]
   }
