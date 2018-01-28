@@ -25,14 +25,15 @@ Command | Aliases | Description | Arguments | Example
 `say` | none | Makes the bot say something | What you want it to say (required) | `!!say hi everyone!`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
 `embed` | none | Says what you want in an embed | What you want it to say (required) | `!!embed hi everyone!`
-`8ball` | eightball | 🎱Ask the 8ball a question! | Your question (required) | `!!8ball is AdvaithBot awesome?`
+`8ball` | eightball | 🎱 Ask the 8ball a question! | Your question (required) | `!!8ball is AdvaithBot awesome?`
 `flip` | `flipcoin`, `coinflip` | Flips a coin. | none | `!!flip`
 `serverinfo` | `server` | Shows some information about the server. | none | `!!serverinfo`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
 
 ## Android Clyde Commands
 These commands replicate Clyde's functionality on Discord for Android, which does not support Clyde commands.  
-All these commands use the prefix `/`.
+All these commands use the prefix `/`. 
+More coming soon!
 
 Command | Description | Example
 :---:|:---:|:---:|:---:
