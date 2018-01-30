@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
+  <url> 
+    <loc>https://advaithbot.com/</loc> 
+    <image:image>
+       <image:loc>https://discordbots.org/bot/398690824721924107</image:loc>
+       <image:caption>AdvaithBot on Discord Bot List</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3</image:loc>
+       <image:caption>Join the AdvaithBot Server</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://advaithbot.com/invite</loc> 
+  </url>
+</urlset>
