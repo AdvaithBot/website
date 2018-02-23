@@ -6,6 +6,9 @@ exports.function = function(client, message, command) {
   
   if(message.content.startsWith("/nick")){
       
+    if(message.author.bot)
+  return message.channel.send('Nice try, but bots can\'t use Clyde commands.')
+    
     message.member.setNickname(newnick)
     .catch(error => message.channel.send({
         "embed": {

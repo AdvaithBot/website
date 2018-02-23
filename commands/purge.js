@@ -17,6 +17,9 @@ exports.command = function(client, message) {
       }
     })
     
+  if(message.author.bot)
+  return message.channel.send('Nice try, but bots can\'t use mod commands.')
+  
     // Gets number of messages to delete
     let deleteCount = parseInt(message.content.split(' ').slice(1).join(' '));
     deleteCount++
