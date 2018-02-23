@@ -15,6 +15,9 @@ exports.command = function(client, message) {
       }
     }
   })
+  
+  if(message.author.bot)
+  return message.channel.send('Nice try, but bots can\'t use mod commands.')
 
     let member = message.mentions.members.first();
     if(!member)
