@@ -4,15 +4,12 @@
   <url> 
     <loc>https://advaithbot.com/</loc> 
     <image:image>
-       <image:loc>https://discordbots.org/bot/398690824721924107</image:loc>
+       <image:loc>https://discordbots.org/api/widget/398690824721924107.svg</image:loc>
        <image:caption>AdvaithBot on Discord Bot List</image:caption>
     </image:image>
     <image:image>
-       <image:loc>https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3</image:loc>
-       <image:caption>Join the AdvaithBot Server</image:caption>
+       <image:loc>https://images.discordapp.net/avatars/398690824721924107/4a5c4e12547c316382ba3b4fabe768cc.png?size=1024</image:loc>
+       <image:caption>AdvaithBot</image:caption>
     </image:image>
-  </url>
-  <url>
-    <loc>https://advaithbot.com/invite</loc> 
   </url>
 </urlset>
