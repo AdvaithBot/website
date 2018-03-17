@@ -37,7 +37,9 @@ All these commands use the prefix `/`.
 More coming soon!
 
 Command | Description | Example
----|---|---|---
+---|---|---
 `/nick` | Changes your nickname | `/nick new nickname`
+`/me` | Sends your text as italicized | `/me eats cookies`
+`/shrug` | Appends ¯\\\_(ツ)_/¯ to your message | `/shrug`
 
 AdvaithBot was created by [advaith](https://advaith.fun).
