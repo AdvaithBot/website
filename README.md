@@ -40,6 +40,8 @@ Command | Description | Example
 ---|---|---
 `/nick` | Changes your nickname | `/nick new nickname`
 `/me` | Sends your text as italicized | `/me eats cookies`
-`/shrug` | Appends ¯\\\_(ツ)_/¯ to your message | `/shrug`
+`/shrug` | Appends ¯\\\_(ツ)\_/¯ to your message | `/shrug`
+`/tableflip` | Appends (╯°□°）╯︵ ┻━┻ to your message | `/tableflip`
+`/unflip` | Appends ┬─┬ ノ( ゜-゜ノ) to your message | `/unflip`
 
 AdvaithBot was created by [advaith](https://advaith.fun).
