@@ -18,6 +18,7 @@ exports.command = function(client, message) {
     var globalVars = require('../globalVars.js')
     let newPrefix = message.content.split(' ').slice(1).join(' ');
     var globalPrefOld = globalVars.globalPrefix
+    globalVars.prefixes.indexOf() //i'll be back l8r i gtg
     client.customConfig.set(message.guild.id, {prefix: newPrefix})
     message.channel.send("Prefix changed to "+newPrefix)
     

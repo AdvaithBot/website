@@ -4,6 +4,11 @@ exports.aliases = ["k"]
 
 exports.command = function(client, message) {
 
+  // Permission check
+       if(!message.guild.members.get(client.user.id).hasPermission('EMBED_LINKS')){
+          message.channel.send(':warning: I don\'t have the `Embed Links` permission! I need this to run the kick command properly.')
+ }
+  
   if(!message.member.hasPermission('KICK_MEMBERS')&&message.member.id!=="190916650143318016")
   return message.channel.send({
     "embed": {
@@ -38,7 +43,7 @@ exports.command = function(client, message) {
           "description": "I cannot kick this user",
           "color": 16711680,
           "footer": {
-            "text": "Make sure I have kick permissions, and I have a role above the user you want me to kick."
+            "text": "Make sure I have kick permissions, and I have a role above the user you want me to kick. Support: https://discord.gg/WxPH3Fc"
           }
         }
       })

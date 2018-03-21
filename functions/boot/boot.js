@@ -49,10 +49,16 @@ setInterval(() => {
         })
   
   // Sets prefix on Bubba's servers
+ //Not finished!!!!!!!! client.customConfig.set(`${message.guild.id}`, `'prefix' : require('./../../globalVars.js')[${message.guild.id}]`)
   client.customConfig.set('392530206121787402', {prefix: 'a!'}) //RGR | ROS community!
   client.customConfig.set('134829552496148482', {prefix: 'a!'}) //CWB
   
   
+  
+  
+  
     console.log("ran boot function")
+  
+    client.channels.get('424391556267769857').send('<:check:424361224675786752> Bot started up!')
   
 }

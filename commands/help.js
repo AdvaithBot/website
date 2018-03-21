@@ -4,15 +4,16 @@ exports.level = 0;
 
 exports.command = function(client, message) {
 
+  // Bot Permission check
+       if(!message.guild.members.get(client.user.id).hasPermission('EMBED_LINKS'))
+         return message.channel.send('<:no:424361302069346304> I don\'t have the `Embed Links` permission! I need this to run most commands, including help. Online command list: <https://advaithbot.com/#commands>')
+  
   message.channel.send({
   "embed": {
     "title": `**__${client.user.username} Help__**`,
-    "description": "For more information on the commands, click [here](https://advaithbot.com#commands).",
+    "color": '45013',
+    "description": "For more information on the commands, click [here](https://advaithbot.com#commands). For support, join [our server](https://discord.gg/WxPH3Fc).",
     "fields": [
-      {
-        "name": "Advaith's Commands",
-        "value": "- \`reload\`: reloads stuff\n- \`die\`: kills the bot\n- \`eval\`: evals stuff"
-      },
       {
         "name": "Moderator Commands",
         "value": "- \`kick\`: Kicks a user\n- \`ban\`: Swings the almighty ban hammer on a user :hammer:\n- \`purge\`: Deletes a specified amount of chat messages."
@@ -23,7 +24,15 @@ exports.command = function(client, message) {
       },
       {
         "name": "Clyde Android Commands",
-        "value": "- \`/nick\`: Changes your nickname"
+        "value": "- \`/nick\`: Changes your nickname\n- \`/me\`: Sends your text as italicized\n- \`/shrug\`: Appends ¯\\\_(ツ)_/¯ to your message\n- \`/tableflip\`: Appends (╯°□°）╯︵ ┻━┻ to your message\n- \`/unflip\`: Appends ┬─┬ ノ( ゜-゜ノ) to your message"
+      },
+      {
+        "name": "Beta Commands",
+        "value": "- \`role\`: Adds or remove a role to/from a user"
+      },
+      {
+        "name": "Upvote AdvaithBot",
+        "value": "Like AdvaithBot? Upvote it [here](https://discordbots.org/bot/398690824721924107/vote)! You'll also get a cool role in the official server!"
       }
     ]
   }

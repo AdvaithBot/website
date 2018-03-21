@@ -22,7 +22,7 @@ exports.command = function(client, message) {
         return message.channel.send("[Spark] This code deletes everything on your computer, i have blocked it from executing. Please don't use code that you don't understand.")
     }
     if (code.match(/no-preserve-root/gi) && !client.developer) {
-        return message.channel.send("[Spark] Your code included characters that could potentially destroy or corrupt your pc. I have stopped exectution. |  If you know what you're doing, you can enable developer mode for this session by typing `" + client.config.prefix + "developer true`. \n**ONLY USE THIS IF YOU KNOW WHAT YOU ARE DOING!!**")
+        return message.channel.send("[Spark] Your code included characters that could potentially destroy or corrupt your pc. I have stopped execution. |  If you know what you're doing, you can enable developer mode for this session by typing `" + client.config.prefix + "developer true`. \n**ONLY USE THIS IF YOU KNOW WHAT YOU ARE DOING!!**")
     }
 // End
 // Trying to prevent people from destroying their computer / bot / discord account.

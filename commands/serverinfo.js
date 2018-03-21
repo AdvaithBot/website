@@ -4,6 +4,11 @@ exports.aliases = ["server"]
 
 exports.command = function(client, message) {
 
+  
+  // Bot Permission check
+       if(!message.guild.members.get(client.user.id).hasPermission('EMBED_LINKS'))
+         return message.channel.send('<:no:424361302069346304> I don\'t have the `Embed Links` permission! I need this to run the serverinfo command.')
+  
     // Checks if running in DM
     if (message.channel.type==="dm") {
         message.channel.send({
@@ -50,7 +55,7 @@ exports.command = function(client, message) {
     } else if (message.guild.region=="eu-west") {
         var region = "<:region_eu:399011531624546306> Western Europe"
     } else {
-        message.channel.send("ERROR: Please report this to the bot developer: error-unrecognized-region")
+        message.channel.send("ERROR: Please report this to the bot developer at https://discord.gg/WxPH3Fc: error-unrecognized-region")
         var region = message.guild.region
     }
 
@@ -104,6 +109,20 @@ exports.command = function(client, message) {
          } else { 
            var perks = "None"
            }
+  
+   // Checks if bot has external emoji perm
+       if(!message.guild.members.get(client.user.id).hasPermission('USE_EXTERNAL_EMOJIS')){
+          message.channel.send({
+            "embed": {
+              "title": ":warning: Warning",
+              "description": "I don't have the `Use External Emojis` permission.",
+              "color": 16763981,
+              "footer": {
+                "text": "Give me this permission to let the serverinfo command work fully."
+              }
+            }
+          })
+       }
     
     // Sends the serverinfo embed
     message.channel.send({
