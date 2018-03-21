@@ -3,7 +3,26 @@ exports.level = 0;
 exports.aliases = ["b", "banne", "bean", "banhammer"]
 
 exports.command = function(client, message) {
-
+  
+  // Embed Permission check
+       if(!message.guild.members.get(client.user.id).hasPermission('EMBED_LINKS')){
+          message.channel.send(':warning: I don\'t have the `Embed Links` permission! I need this to run the ban command properly.')
+ }
+  
+  // external emoji perm check
+       if(!message.guild.members.get(client.user.id).hasPermission('USE_EXTERNAL_EMOJIS')){
+          message.channel.send({
+            "embed": {
+              "title": ":warning: Warning",
+              "description": "I don't have the `Use External Emojis` permission.",
+              "color": 16763981,
+              "footer": {
+                "text": "Give me this permission to let the ban command work fully."
+              }
+            }
+          })
+ }
+  
   if(!message.member.hasPermission('BAN_MEMBERS')&&message.member.id!=="190916650143318016")
   return message.channel.send({
     "embed": {
@@ -38,7 +57,7 @@ exports.command = function(client, message) {
           "description": "I cannot ban this user",
           "color": 16711680,
           "footer": {
-            "text": "Make sure I have ban permissions, and I have a role above the user you want me to ban."
+            "text": "Make sure I have ban permissions, and I have a role above the user you want me to ban. Support: https://discord.gg/WxPH3Fc"
           }
         }
       })
