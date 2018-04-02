@@ -17,7 +17,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
 `ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 spamming` | Ban Members
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
-`role` | none | Adds a role to or removes a role from a user | [add | remove] (required), User (required), Role (required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
+`role` | none | Adds a role to or removes a role from a user | [add \| remove] (required), User (required), Role (required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
 
 ## Normal Commands
 
