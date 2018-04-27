@@ -50,4 +50,8 @@ Command | Description | Example
 `/tableflip` | Appends (╯°□°）╯︵ ┻━┻ to your message | `/tableflip`
 `/unflip` | Appends ┬─┬ ノ( ゜-゜ノ) to your message | `/unflip`
 
+A new update is coming out soon with lots of new commands and features!
+
 AdvaithBot was created by [advaith](https://advaith.fun).
+
+<iframe src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632" width="100%" height="600" frameborder="0"><a href="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632">Discord</a></iframe>
