@@ -7,7 +7,6 @@ AdvaithBot is a multipurpose Discord bot.
 <a href="https://discordbots.org/bot/398690824721924107"><amp-img src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300">[AdvaithBot on Discord Bot List]</amp-img></a>
 <a class="discord-widget" href="https://discord.gg/jfSCWE3"><amp-img src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320">[Join the AdvaithBot Discord Server]</amp-img></a>
 
-![hi](https://cdn.discordapp.com/attachments/252296452708106240/446101872701472778/redalert-white.png)
 <a href="https://battleforthenet.com"><amp-img src="https://cdn.discordapp.com/attachments/252296452708106240/446101872701472778/redalert-white.png" alt="Red Alert for Net Neutrality" layout="fixed" height="81" width="873">[⚠️ Red Alert for Net Neutrality]</amp-img></a>
 
 # Commands
