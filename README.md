@@ -1,3 +1,6 @@
+# ⚠️ NOTICE: A rouge developer made AdvaithBot leave all servers. Please [add it back to your server](https://advaithbot.com/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.
+---
+
 Welcome to the AdvaithBot website.
 
 AdvaithBot is a multipurpose Discord bot.
