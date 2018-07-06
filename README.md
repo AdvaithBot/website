@@ -2,12 +2,14 @@ Welcome to the AdvaithBot website.
 
 AdvaithBot is a multipurpose Discord bot.
 
+AdvaithBot has received a huge update with lots of new commands and features! Check them out!
+
 [Add AdvaithBot to your server!](/invite)
 
-<a href="https://discordbots.org/bot/398690824721924107"><amp-img src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300">[AdvaithBot on Discord Bot List]</amp-img></a>
-<a class="discord-widget" href="https://discord.gg/jfSCWE3"><amp-img src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320">[Join the AdvaithBot Discord Server]</amp-img></a>
+<a href="https://discordbots.org/bot/398690824721924107"><amp-img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" width="300" height="150" alt="AMP"></noscript></amp-img>
+<a href="https://discord.gg/WxPH3Fc"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="AMP"></noscript></amp-img></a>
 
-<a href="https://battleforthenet.com"><amp-img src="https://cdn.discordapp.com/attachments/252296452708106240/446101872701472778/redalert-white.png" alt="Red Alert for Net Neutrality" layout="fixed" height="81" width="873">[⚠️ Red Alert for Net Neutrality]</amp-img></a>
+<a href="https://battleforthenet.com"><amp-img class="rounded" src="https://www.battleforthenet.com/images/redalert/banner-970x90.png" alt="Red Alert for Net Neutrality" layout="responsive" height="81" width="873"><noscript><img class="rounded" src="https://www.battleforthenet.com/images/redalert/banner-970x90.png" width="873" height="81" alt="AMP"></noscript></amp-img></a>
 
 # Commands
 The prefix for all commands is `!!`. Customizable prefixes are in development!
@@ -52,8 +54,6 @@ Command | Description | Example
 `/tableflip` | Appends (╯°□°）╯︵ ┻━┻ to your message | `/tableflip`
 `/unflip` | Appends ┬─┬ ノ( ゜-゜ノ) to your message | `/unflip`
 
-A new update is coming out soon with lots of new commands and features!
+AdvaithBot was created by [advaith](https://advaith.fun).
 
-AdvaithBot was created by [advaith](https://advaith.fun) among others.
-
-<amp-iframe src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><a href="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217">[Discord Embed]</a></amp-iframe>
+<amp-iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></noscript></amp-iframe>
