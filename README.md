@@ -9,10 +9,9 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 <a href="https://discordbots.org/bot/398690824721924107"><amp-img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" width="300" height="150" alt="AMP"></noscript></amp-img>
 <a href="https://discord.gg/WxPH3Fc"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="AMP"></noscript></amp-img></a>
 
-<a href="https://battleforthenet.com"><amp-img class="rounded" src="https://www.battleforthenet.com/images/redalert/banner-970x90.png" alt="Red Alert for Net Neutrality" layout="responsive" height="81" width="873"><noscript><img class="rounded" src="https://www.battleforthenet.com/images/redalert/banner-970x90.png" width="873" height="81" alt="AMP"></noscript></amp-img></a>
 
 # Commands
-The prefix for all commands is `!!`. Customizable prefixes are in development!
+The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
 ## Moderator Commands
 
