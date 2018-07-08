@@ -14,13 +14,13 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
 ### Jump To:
-* [🖥 System Commands](#-system-commands)
+* [🖥️ System Commands](#-system-commands)
 * [🤣 Fun Commands](#-fun-commands)
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
 * [📝 Text Commands](#-text-commands)
 
-## 🖥 System Commands
+## 🖥️ System Commands
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
@@ -77,14 +77,17 @@ Command | Aliases | Description
 `zalgo` | `creepify` | m̷̳͌a̴̱͛k̷͇̐ë̵̥́s̶̰̀ ̴̨̇z̶̙̆a̵̝̓l̴͇̀ǧ̸̯o̸̞̅ ̶́͜ť̵̤ë̸̼́x̸̯̊t̷̬͒
 
 
-## Moderator Commands (Outdated)
+## 🔨 Moderation Commands
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
-`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
 `ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 spamming` | Ban Members
+`freeze` | none | Blocks everyone from sending messages | None | `!!freeze` | Manage Roles
+`kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
 `role` | none | Adds a role to or removes a role from a user | [add \| remove] (Required), User (Required), Role (Required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
+`ban` | `unbanne`, `unbean`, `unbanhammer`| Unbans a user | User (Required), Reason (optional) | `!!unban @advaith#9121 is gud` | Ban Members
+`unfreeze` | none | Unfreezes your server | none | `!!unfreeze` | Manage Roles
 
 ## Normal Commands (Outdated)
 
