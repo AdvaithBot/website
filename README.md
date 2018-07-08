@@ -19,6 +19,7 @@ The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
 * [📝 Text Commands](#-text-commands)
+* [ℹ️ Info Commands](#-info-commands)
 * [🔨 Moderation Commands](#-moderation-commands)
 * [🔗 URL Shortener Commands](#-url-shortener-commands)
 
@@ -77,6 +78,14 @@ Command | Aliases | Description
 `mirror` | none | ƚxɘƚ ꙅɿoɿɿim
 `tiny` | `tinycaps` | ᴍᴀᴋᴇꜱ ᴛᴇxᴛ ɪɴᴛᴏ ᴛɪɴʏ ᴄᴀᴘꜱ
 `zalgo` | `creepify` | m̷̳͌a̴̱͛k̷͇̐ë̵̥́s̶̰̀ ̴̨̇z̶̙̆a̵̝̓l̴͇̀ǧ̸̯o̸̞̅ ̶́͜ť̵̤ë̸̼́x̸̯̊t̷̬͒
+
+## ℹ️ Info Commands
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`botinfo` | none | Shows some information about a provided bot. | Bot mention or ID (required) | `!!botinfo @AdvaithBot#2249`
+`serverinfo` | `server` | Shows some information about the server. | none | `!!serverinfo`
+`userinfo` | `user`, `uinfo` | Information about a user or yourself | User mention or ID (optional) | `!!user @advaith#9121`
 
 
 ## 🔨 Moderation Commands
