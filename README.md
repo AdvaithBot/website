@@ -13,32 +13,70 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 # Commands
 The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
-## Moderator Commands
+## 🖥 System Commands
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`help` | none | Shows you a list of commands. | none | `!!help`
+`ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
+`info` | none | Some info about the bot | none | `!!info`
+`mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
+
+## 🤣 Fun Commands
+
+`8ball` |  `eightball`  | 🎱 Ask the 8ball a question! | Your question (Required) | `!!8ball is AdvaithBot awesome?`
+`acronym` | none | Generates an acronym meaning for a word | Word or words to make a meaning for (Required) | `acronym dab`
+`cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
+`reverse` | none | Reverses provided text | Text to reverse (Required) | `!!reverse hello`
+`flip` | none | Flip a coin! | `!flip`
+`trbmb` | none |  That really \_\_\_\_\_ my \_\_\_\_\_ | none | `!!trbmb`
+
+## 🔍 Search Commands
+
+`google` | `g` | Searches Google | Search query (Required) | `!!google advaithbot`
+`urban` | `u` | Searches Urban Dictionary | Search query (Required) | `!!urban no u`
+`yt` | `youtube` | Searches YouTube | Search query (Required) | `!yt @someone`
+
+## ⚙️ Utility Commands
+
+`discrim` | none | Find users with a certain discriminator (#XXXX) | Discriminator to search for (Optional, defaults to yours) | `!!discrim`, `!!discrim 0001`
+`embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
+`haste` | `hastebin` | Uploads code to hastebin | Code to upload (Required)
+`hook` | none | Sends your message as a webhook | What you want it to say (Required) | `!!hook hey everyone check out [AdvaithBot](https://advaithbot.com)`
+`portmanteaus` | none | Make portmanteaus with a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
+`rhymes` | none | Get rhymes for a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
+`say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
+`splash` | none | Shows the server's invite splash screen. | none | `!!splash`
+`imgur` | none | Upload an image to Imgur | URL to image, or attach image (Required) | `!!imgur` <upload image>
+`translate` | none | Translate text to any language using Google Translate | Language name or 2-letter code to translate to (Required), text to translate (Required) | `!!translate spanish I am using Google Translate`
+`upload` | none | Uploads a file using [BiSoga](https://biso.ga) | URL to image, or attach image (Required) | `!!imgur` <upload image>
+
+## Moderator Commands (Outdated)
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
 `kick` | `k` | Kicks a user | User (Required), Reason (optional) | `!!kick @advaith#9121 bye` | Kick Members
 `ban` | `b`, `bean`, `banne`, `banhammer`| Swings the almighty ban hammer on a user 🔨 | User (Required), Reason (optional) | `!!ban @advaith#9121 spamming` | Ban Members
 `purge` | `p`, `clear`, `prune` | Deletes a specified amount of chat messages. | Amount of messages (Required) | `!!purge 2` | Manage Messages
-`role` | none | Adds a role to or removes a role from a user | [add \| remove] (required), User (required), Role (required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
+`role` | none | Adds a role to or removes a role from a user | [add \| remove] (Required), User (Required), Role (Required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
 
-## Normal Commands
+## Normal Commands (Outdated)
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
 `help` | none | Shows you a list of commands. | none | `!!help`
-`say` | none | Makes the bot say something | What you want it to say (required) | `!!say hi everyone!`
+`say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
-`embed` | none | Says what you want in an embed | What you want it to say (required) | `!!embed hi everyone!`
-`8ball` |  `eightball`  | 🎱 Ask the 8ball a question! | Your question (required) | `!!8ball is AdvaithBot awesome?`
+`embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
+`8ball` |  `eightball`  | 🎱 Ask the 8ball a question! | Your question (Required) | `!!8ball is AdvaithBot awesome?`
 `flip` | `flipcoin`, `coinflip` | Flips a coin. | none | `!!flip`
 `serverinfo` | `server` | Shows some information about the server. | none | `!!serverinfo`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
 `info` | none | Some info about the bot | none | `!!info`
 `userinfo` | `user`, `uinfo` | Information about a user or yourself | User (optional) | `!!user @advaith#9121`
-`google` | none | Searches Google | Search query (required) | `!!google advaithbot`
-`urban` | none | Searches Urban Dictionary | Search query (required) | `!!urban no u`
-`cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (required) | `!!cleverbot how are you?`
+`google` | none | Searches Google | Search query (Required) | `!!google advaithbot`
+`urban` | none | Searches Urban Dictionary | Search query (Required) | `!!urban no u`
+`cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
 `mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
 
 ## Android Clyde Commands
