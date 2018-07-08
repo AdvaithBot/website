@@ -22,6 +22,8 @@ The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 * [ℹ️ Info Commands](#ℹ️-info-commands)
 * [🔨 Moderation Commands](#-moderation-commands)
 * [🔗 URL Shortener Commands](#-url-shortener-commands)
+* [😀 Emoji Management Commands](#-emoji-management-commands)
+* [Android Clyde Commands](#android-clyde-commands)
 
 ## 🖥️ System Commands
 
@@ -117,26 +119,7 @@ Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
 `deleteemoji` | none | Deletes a custom emoji | Emoji (Required) | `!!deleteemoji :thonking:`
 `emoji` | `uploademoji` | Creates a custom emoji | Emoji name (Required), Image URL or attach image (Required) | `!!emoji Thonk <attach file>`
-`renameemoji` | none | Renames a custom emoji | Emoji (Required), New name (Required) | `!!renameemoji Thonk thonking`
-
-## Normal Commands (Outdated)
-
-Command | Aliases | Description | Arguments | Example
----|---|---|---|---
-`help` | none | Shows you a list of commands. | none | `!!help`
-`say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
-`ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
-`embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
-`8ball` |  `eightball`  | 🎱 Ask the 8ball a question! | Your question (Required) | `!!8ball is AdvaithBot awesome?`
-`flip` | `flipcoin`, `coinflip` | Flips a coin. | none | `!!flip`
-`serverinfo` | `server` | Shows some information about the server. | none | `!!serverinfo`
-`splash` | none | Shows the server's invite splash screen. | none | `!!splash`
-`info` | none | Some info about the bot | none | `!!info`
-`userinfo` | `user`, `uinfo` | Information about a user or yourself | User (optional) | `!!user @advaith#9121`
-`google` | none | Searches Google | Search query (Required) | `!!google advaithbot`
-`urban` | none | Searches Urban Dictionary | Search query (Required) | `!!urban no u`
-`cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
-`mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
+`renameemoji` | none | Renames a custom emoji | Emoji (Required), New name (Required) | `!!renameemoji :Thonk: thonking`
 
 ## Android Clyde Commands
 These commands replicate Clyde's functionality on Discord for Android, which does not support Clyde commands.  
@@ -152,4 +135,4 @@ Command | Description | Example
 
 AdvaithBot was created by [advaith](https://advaith.fun).
 
-<amp-iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&defaultchannel=399069831820869632&css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&amp;defaultchannel=399069831820869632&amp;css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"><noscript><iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&amp;defaultchannel=399069831820869632&amp;css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></noscript></amp-iframe>
