@@ -59,7 +59,7 @@ Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
 `discrim` | none | Find users with a certain discriminator (#XXXX) | Discriminator to search for (Optional, defaults to yours) | `!!discrim`, `!!discrim 0001`
 `embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
-`haste` | `hastebin` | Uploads code to hastebin | Code to upload (Required)
+`haste` | `hastebin` | Uploads code to hastebin | Code to upload (Required) | `!!haste hello`
 `hook` | none | Sends your message as a webhook | What you want it to say (Required) | `!!hook hey everyone check out [AdvaithBot](https://advaithbot.com)`
 `portmanteaus` | none | Make portmanteaus with a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
 `rhymes` | none | Get rhymes for a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
@@ -114,6 +114,7 @@ Command | Aliases | Description
 `vgd` | none | Shortens a URL using [v.gd](https://v.gd)
 
 ## 😀 Emoji Management Commands
+All Emoji Management commands require the Manage Emojis permission.
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
