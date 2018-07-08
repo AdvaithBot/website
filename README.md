@@ -17,7 +17,7 @@ The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`help` | none | Shows you a list of commands. | none | `!!help`
+`help` | `h` | Sends the command list or info for a specific command | Command or module name (Optional) | `!!help`, `!!help fun`, `!!help 8ball`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
 `info` | none | Some info about the bot | none | `!!info`
 `mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
@@ -53,9 +53,22 @@ Command | Aliases | Description | Arguments | Example
 `rhymes` | none | Get rhymes for a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
 `say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
-`imgur` | none | Upload an image to [Imgur](https://imgur.com) | URL to image, or attach image (Required) | `!!imgur` <upload image>
+`imgur` | none | Upload an image to [Imgur](https://imgur.com) | URL to image, or attach image (Required) | `!!imgur <attach image>`
 `translate` | none | Translate text to any language using [Google Translate](https://translate.google.com) | Language name or 2-letter code to translate to (Required), text to translate (Required) | `!!translate spanish I am using Google Translate`
-`upload` | none | Uploads a file using [BiSoga](https://biso.ga) | URL to image, or attach image (Required) | `!!imgur` <upload image>
+`upload` | none | Uploads a file using [BiSoga](https://biso.ga) | URL to image, or attach image (Required) | `!!upload <attach image>`
+
+## 📝 Text Commands
+For all text commands, the argument is the text to manipulate.
+
+Command | Aliases | Description
+---|---|---|---|---
+`bend` | none | ʍąҟҽʂ աҽìɾժ էҽ×է Ӏìҟҽ էհìʂ
+`bubbles` | none | ⓟⓤⓣⓢ ⓣⓔⓧⓣ ⓘⓝ ⓑⓤⓑⓑⓛⓔⓢ
+`fliptext` | none | uʍop ǝpısdn ʇxǝʇ sdılɟ
+`mirror` | none | ƚxɘƚ ꙅɿoɿɿim
+`tiny` | `tinycaps` | ᴍᴀᴋᴇꜱ ᴛᴇxᴛ ɪɴᴛᴏ ᴛɪɴʏ ᴄᴀᴘꜱ
+`zalgo` | `creepify` | m̷̳͌a̴̱͛k̷͇̐ë̵̥́s̶̰̀ ̴̨̇z̶̙̆a̵̝̓l̴͇̀ǧ̸̯o̸̞̅ ̶́͜ť̵̤ë̸̼́x̸̯̊t̷̬͒
+
 
 ## Moderator Commands (Outdated)
 
