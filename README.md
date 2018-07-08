@@ -13,6 +13,13 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 # Commands
 The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
+### Jump To:
+* [🖥 System Commands](#-system-commands)
+* [🤣 Fun Commands](#-fun-commands)
+* [🔍 Search Commands](#-search-commands)
+* [⚙️ Utility Commands](#️-utility-commands)
+* [📝 Text Commands](#-text-commands)
+
 ## 🖥 System Commands
 
 Command | Aliases | Description | Arguments | Example
