@@ -14,7 +14,7 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 
 ### Jump To:
-* [🖥️ System Commands](#-system-commands)
+* [🖥️ System Commands](#️-system-commands)
 * [🤣 Fun Commands](#-fun-commands)
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
