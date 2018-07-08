@@ -24,6 +24,8 @@ Command | Aliases | Description | Arguments | Example
 
 ## 🤣 Fun Commands
 
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
 `8ball` |  `eightball`  | 🎱 Ask the 8ball a question! | Your question (Required) | `!!8ball is AdvaithBot awesome?`
 `acronym` | none | Generates an acronym meaning for a word | Word or words to make a meaning for (Required) | `acronym dab`
 `cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
@@ -33,12 +35,16 @@ Command | Aliases | Description | Arguments | Example
 
 ## 🔍 Search Commands
 
-`google` | `g` | Searches Google | Search query (Required) | `!!google advaithbot`
-`urban` | `u` | Searches Urban Dictionary | Search query (Required) | `!!urban no u`
-`yt` | `youtube` | Searches YouTube | Search query (Required) | `!yt @someone`
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`google` | `g` | Searches [Google](https://google.com) | Search query (Required) | `!!google advaithbot`
+`urban` | `u` | Searches [Urban Dictionary](https://urbandictionary.com) | Search query (Required) | `!!urban no u`
+`yt` | `youtube` | Searches [YouTube](https://youtube.com) | Search query (Required) | `!yt @someone`
 
 ## ⚙️ Utility Commands
 
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
 `discrim` | none | Find users with a certain discriminator (#XXXX) | Discriminator to search for (Optional, defaults to yours) | `!!discrim`, `!!discrim 0001`
 `embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
 `haste` | `hastebin` | Uploads code to hastebin | Code to upload (Required)
@@ -47,8 +53,8 @@ Command | Aliases | Description | Arguments | Example
 `rhymes` | none | Get rhymes for a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
 `say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
-`imgur` | none | Upload an image to Imgur | URL to image, or attach image (Required) | `!!imgur` <upload image>
-`translate` | none | Translate text to any language using Google Translate | Language name or 2-letter code to translate to (Required), text to translate (Required) | `!!translate spanish I am using Google Translate`
+`imgur` | none | Upload an image to [Imgur](https://imgur.com) | URL to image, or attach image (Required) | `!!imgur` <upload image>
+`translate` | none | Translate text to any language using [Google Translate](https://translate.google.com) | Language name or 2-letter code to translate to (Required), text to translate (Required) | `!!translate spanish I am using Google Translate`
 `upload` | none | Uploads a file using [BiSoga](https://biso.ga) | URL to image, or attach image (Required) | `!!imgur` <upload image>
 
 ## Moderator Commands (Outdated)
