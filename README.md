@@ -19,6 +19,8 @@ The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
 * [📝 Text Commands](#-text-commands)
+* [🔨 Moderation Commands](#-moderation-commands)
+* [🔗 URL Shortener Commands](#-url-shortener-commands)
 
 ## 🖥️ System Commands
 
@@ -88,6 +90,17 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `role` | none | Adds a role to or removes a role from a user | [add \| remove] (Required), User (Required), Role (Required) | `!!role add @advaith#9121 Awesome People` | Manage Roles
 `ban` | `unbanne`, `unbean`, `unbanhammer`| Unbans a user | User (Required), Reason (optional) | `!!unban @advaith#9121 is gud` | Ban Members
 `unfreeze` | none | Unfreezes your server | none | `!!unfreeze` | Manage Roles
+
+## 🔗 URL Shortener Commands
+For all URL Shortener commands, the argument is the URL to shorten.
+
+Command | Aliases | Description
+---|---|---|---|---
+`bisoga` | `shorten` | Shortens a URL using [BiSoga](https://biso.ga)
+`isgd` | none | Shortens a URL using [is.gd](https://is.gd)
+`sketchify` | none | Makes a URL look sketchy with [verylegit.link](https://verylegit.link)
+`tinyurl` | none | Shortens a URL using [TinyURL](https://tinyurl.com)
+`vgd` | none | Shortens a URL using [v.gd](https://v.gd)
 
 ## Normal Commands (Outdated)
 
