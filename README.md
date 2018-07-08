@@ -19,7 +19,7 @@ The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
 * [📝 Text Commands](#-text-commands)
-* [ℹ️ Info Commands](#-info-commands)
+* [ℹ️ Info Commands](#ℹ️-info-commands)
 * [🔨 Moderation Commands](#-moderation-commands)
 * [🔗 URL Shortener Commands](#-url-shortener-commands)
 
@@ -104,12 +104,20 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 For all URL Shortener commands, the argument is the URL to shorten.
 
 Command | Aliases | Description
----|---|---|---|---
+---|---|---
 `bisoga` | `shorten` | Shortens a URL using [BiSoga](https://biso.ga)
 `isgd` | none | Shortens a URL using [is.gd](https://is.gd)
 `sketchify` | none | Makes a URL look sketchy with [verylegit.link](https://verylegit.link)
 `tinyurl` | none | Shortens a URL using [TinyURL](https://tinyurl.com)
 `vgd` | none | Shortens a URL using [v.gd](https://v.gd)
+
+## 😀 Emoji Management Commands
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`deleteemoji` | none | Deletes a custom emoji | Emoji (Required) | `!!deleteemoji :thonking:`
+`emoji` | `uploademoji` | Creates a custom emoji | Emoji name (Required), Image URL or attach image (Required) | `!!emoji Thonk <attach file>`
+`renameemoji` | none | Renames a custom emoji | Emoji (Required), New name (Required) | `!!renameemoji Thonk thonking`
 
 ## Normal Commands (Outdated)
 
