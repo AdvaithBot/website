@@ -1,4 +1,4 @@
-<big>⚠️ NOTICE: A rogue developer made AdvaithBot leave all servers. Please [add it back to your server](https://advaithbot.com/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.</big>
+Notice: A rogue developer made AdvaithBot leave all servers. Please [add it back to your server](https://advaithbot.com/invite). The developer's access has been removed, and he has been banned. We apologize for the inconvenience.
 
 ---
 
@@ -15,11 +15,12 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 
 
 # Commands
-The prefix for all commands is `!!`. Customizable prefixes are coming soon™!
+The prefix for all commands is `!!` by default. You can currently request a custom prefix for your server in the AdvaithBot server.
 
 ### Jump To:
 * [🖥️ System Commands](#️-system-commands)
 * [🤣 Fun Commands](#-fun-commands)
+* [🐱 Animal Commands](#-animal-commands)
 * [🔍 Search Commands](#-search-commands)
 * [⚙️ Utility Commands](#️-utility-commands)
 * [📝 Text Commands](#-text-commands)
@@ -46,8 +47,20 @@ Command | Aliases | Description | Arguments | Example
 `acronym` | none | Generates an acronym meaning for a word | Word or words to make a meaning for (Required) | `acronym dab`
 `cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
 `reverse` | none | Reverses provided text | Text to reverse (Required) | `!!reverse hello`
-`flip` | none | Flip a coin! | `!flip`
+`flip` | none | Flip a coin! | `!!flip`
 `trbmb` | none |  That really \_\_\_\_\_ my \_\_\_\_\_ | none | `!!trbmb`
+
+## 🐱 Animal Commands
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`bird` |  none  | Sends a random bird pic | none | `!!bird`
+`cat` |  none  | Sends a random cat pic | none | `!!cat`
+`dog` |  none  | Sends a random dog pic | none | `!!dog`
+`duck` |  none  | Sends a random duck pic or gif | none | `!!duck`
+`duck gif` |  none  | Sends a random duck pic | none | `!!duck gif`
+`duck pic` | none |  Sends a random non-animated duck pic | none | `!!duck pic`
+`rabbit` | none | Sends a random rabbit pic | `!rabbit`
 
 ## 🔍 Search Commands
 
