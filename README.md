@@ -60,7 +60,7 @@ Command | Aliases | Description | Arguments | Example
 `duck` |  none  | Sends a random duck pic or gif | none | `!!duck`
 `duck gif` |  none  | Sends a random duck pic | none | `!!duck gif`
 `duck pic` | none |  Sends a random non-animated duck pic | none | `!!duck pic`
-`rabbit` | none | Sends a random rabbit pic | `!rabbit`
+`rabbit` | none | Sends a random rabbit pic | none | `!rabbit`
 
 ## 🔍 Search Commands
 
