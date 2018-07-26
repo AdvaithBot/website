@@ -80,7 +80,7 @@ Command | Aliases | Description | Arguments | Example
 `hook` | none | Sends your message as a webhook | What you want it to say (Required) | `!!hook hey everyone check out [AdvaithBot](https://advaithbot.com)`
 `portmanteaus` | none | Make portmanteaus with a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
 `react` | none | Add a reaction to a message | Message ID (Required), Emoji to react with (Required) | `!!react 412350313450831874 :smiley:`
-`rhymes` | none | Get rhymes for a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
+`rhymes` | none | Get rhymes for a provided word | Word to get rhymes for (Required) | `!!rhymes hello`
 `say` | none | Makes the bot say something | What you want it to say (Required) | `!!say hi everyone!`
 `splash` | none | Shows the server's invite splash screen. | none | `!!splash`
 `imgur` | none | Upload an image to [Imgur](https://imgur.com) | URL to image, or attach image (Required) | `!!imgur <attach image>`
