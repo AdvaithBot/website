@@ -8,11 +8,13 @@ AdvaithBot is a multipurpose Discord bot.
 
 AdvaithBot has received a huge update with lots of new commands and features! Check them out!
 
-[Add AdvaithBot to your server!](/invite)
+<a href="invite" target="_blank" rel="noopener">Add AdvaithBot to your server!</a>
 
-<a href="https://discordbots.org/bot/398690824721924107"><amp-img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" width="300" height="150" alt="AMP"></noscript></amp-img>
-<a href="https://discord.gg/WxPH3Fc"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="AMP"></noscript></amp-img></a>
-
+<a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="AMP"></noscript></amp-img></a>
+<a href="https://discordbots.org/bot/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" alt="Discord Bot List" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://discordbots.org/api/widget/398690824721924107.svg" width="300" height="150" alt="AMP"></noscript></amp-img></a>
+<a href="https://botsfordiscord.com/bot/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://botsfordiscord.com/api/v1/bots/398690824721924107/embed?theme=dark" alt="Bots for Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://botsfordiscord.com/api/v1/bots/398690824721924107/embed?theme=dark" width="300" height="150" alt="AMP"></noscript></amp-img></a>
+<a href="https://listcord.com/bot/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://nuggetbot.com/listcord/embed.svg?id=398690824721924107" alt="Listcord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://nuggetbot.com/listcord/embed.svg?id=398690824721924107" width="300" height="150" alt="AMP"></noscript></amp-img></a>
+<a href="https://bots.ondiscord.xyz/bots/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark" alt="Bots on Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark" width="300" height="150" alt="AMP"></noscript></amp-img></a>
 
 # Commands
 The prefix for all commands is `!!` by default. You can currently request a custom prefix for your server in the AdvaithBot server.
@@ -47,7 +49,7 @@ Command | Aliases | Description | Arguments | Example
 `acronym` | none | Generates an acronym meaning for a word | Word or words to make a meaning for (Required) | `acronym dab`
 `cleverbot` | `cb` | Talk to Cleverbot! | What you want to say (Required) | `!!cleverbot how are you?`
 `reverse` | none | Reverses provided text | Text to reverse (Required) | `!!reverse hello`
-`flip` | none | Flip a coin! | `!!flip`
+`flip` | none | Flip a coin! | none | `!!flip`
 `trbmb` | none |  That really \_\_\_\_\_ my \_\_\_\_\_ | none | `!!trbmb`
 
 ## 🐱 Animal Commands
