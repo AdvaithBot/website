@@ -37,9 +37,12 @@ The prefix for all commands is `!!` by default. You can currently request a cust
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
 `help` | `h` | Sends the command list or info for a specific command | Command or module name (Optional) | `!!help`, `!!help fun`, `!!help 8ball`
-`ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
 `info` | none | Some info about the bot | none | `!!info`
+`invite` | none | Sends the link to add the bot | none | `!!invite`
 `mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
+`ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
+`prefix` | none | Change the server prefix | New prefix (optional) | `!!prefix -`
+`support` | none | Sends the link to the AdvaithBot server | none | `!!support`
 
 ## 🤣 Fun Commands
 
@@ -68,6 +71,7 @@ Command | Aliases | Description | Arguments | Example
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
+`ddg` | `duckduckgo` | Searches [DuckDuckGo](https://duckduckgo.com) | Search query (Required) | `!!ddg advaithbot`
 `google` | `g` | Searches [Google](https://google.com) | Search query (Required) | `!!google advaithbot`
 `urban` | `u` | Searches [Urban Dictionary](https://urbandictionary.com) | Search query (Required) | `!!urban no u`
 `yt` | `youtube` | Searches [YouTube](https://youtube.com) | Search query (Required) | `!yt @someone`
