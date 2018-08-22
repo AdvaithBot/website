@@ -17,7 +17,7 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 <a href="https://bots.ondiscord.xyz/bots/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&showGuilds=true" alt="Bots on Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&showGuilds=true" width="300" height="150" alt="AMP"></noscript></amp-img></a>
 
 # Commands
-The prefix for all commands is `!!` by default. You can currently request a custom prefix for your server in the AdvaithBot server.
+The prefix for all commands is `!!` by default. Set a custom server prefix with the `prefix` command!
 
 ### Jump To:
 * [🖥️ System Commands](#️-system-commands)
