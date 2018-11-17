@@ -157,4 +157,4 @@ Command | Description | Example
 
 AdvaithBot was created by [advaith](https://advaith.fun).
 
-<amp-iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&amp;defaultchannel=399069831820869632&amp;css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups"><noscript><iframe class="rounded" src="https://titanembeds.com/embed/398998849026261003?theme=DiscordDark&amp;defaultchannel=399069831820869632&amp;css=217" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://widgetbot.io/channels/398998849026261003/399069831820869632x" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups"><noscript><iframe class="rounded" src="https://widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></noscript></amp-iframe>
