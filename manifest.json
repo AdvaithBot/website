@@ -1,0 +1,21 @@
+{
+  "short_name": "AdvaithBot",
+  "name": "AdvaithBot",
+  "icons": [
+    {
+      "src": "https://advaithbot.com/files/optimized.png",
+      "type": "image/png",
+      "sizes": "1414x1406"
+    },
+    {
+      "src": "https://advaithbot.com/files/advaithbot.webp",
+      "type": "image/webp",
+      "sizes": "1414x1406"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#171717",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#00AFD5"
+}
