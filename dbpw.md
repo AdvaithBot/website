@@ -77,7 +77,7 @@ Command | Aliases | Description | Arguments | Example
 `discrim` | none | Find users with a certain discriminator (#XXXX) | Discriminator to search for (Optional, defaults to yours) | `!!discrim`, `!!discrim 0001`
 `embed` | none | Says what you want in an embed | What you want it to say (Required) | `!!embed hi everyone!`
 `haste` | `hastebin` | Uploads code to hastebin | Code to upload (Required) | `!!haste hello`
-`hook` | none | Sends your message as a webhook | What you want it to say (Required) | `!!hook hey everyone check out [AdvaithBot](https://advaithbot.com)`
+`hook` | none | Sends your message as a webhook | What you want it to say (Required) | `!!hook hey everyone check out [AdvaithBot](https://advaithbot.xyz)`
 `portmanteaus` | none | Make portmanteaus with a provided word | Word to make portmanteaus with (Required) | `!!portmanteaus hello`
 `react` | none | Add a reaction to a message | Message ID (Required), Emoji to react with (Required) | `!!react 412350313450831874 :smiley:`
 `rhymes` | none | Get rhymes for a provided word | Word to get rhymes for (Required) | `!!rhymes hello`

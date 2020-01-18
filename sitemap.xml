@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
   <url> 
-    <loc>https://advaithbot.com/</loc> 
+    <loc>https://advaithbot.xyz/</loc>
     <image:image>
        <image:loc>https://discordbots.org/api/widget/398690824721924107.svg</image:loc>
        <image:caption>AdvaithBot on Discord Bot List</image:caption>

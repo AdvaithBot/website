@@ -3,27 +3,27 @@
   "name": "AdvaithBot",
   "icons": [
     {
-      "src": "https://advaithbot.com/files/optimized.png",
+      "src": "https://advaithbot.xyz/files/optimized.png",
       "type": "image/png",
       "sizes": "1414x1406"
     },
     {
-      "src": "https://advaithbot.com/files/advaithbot.webp",
+      "src": "https://advaithbot.xyz/files/advaithbot.webp",
       "type": "image/webp",
       "sizes": "1414x1406"
     },
     {
-      "src": "https://advaithbot.com/files/logo-square.png",
+      "src": "https://advaithbot.xyz/files/logo-square.png",
       "type": "image/png",
       "sizes": "1406x1406"
     },
     {
-      "src": "https://advaithbot.com/files/logo-512.png",
+      "src": "https://advaithbot.xyz/files/logo-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://advaithbot.com/files/logo-192.png",
+      "src": "https://advaithbot.xyz/files/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
