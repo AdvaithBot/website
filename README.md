@@ -11,6 +11,10 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 <!--<a href="https://bots.ondiscord.xyz/bots/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&amp;showGuilds=true" alt="Bots on Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&amp;showGuilds=true" width="300" height="150" alt="Bots on Discord"></noscript></amp-img></a>-->
 <a href="https://discordbotlist.com/bots/398690824721924107/upvote" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" alt="Discord Bot List" layout="fixed" height="140" width="380"><noscript><img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" width="380" height="140" alt="Discord Bot List"></noscript></amp-img></a>
 
+# Try it out!
+Type `!!help` to get started.
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+
 # Commands
 The prefix for all commands is `!!` by default. Set a custom server prefix with the `prefix` command!
 
@@ -156,4 +160,4 @@ Command | Description | Example
 
 AdvaithBot was created by [advaith](https://advaith.fun).
 
-<amp-iframe class="rounded" src="https://disweb.dashflo.net/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://disweb.dashflo.net/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
