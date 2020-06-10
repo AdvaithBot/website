@@ -96,13 +96,13 @@ Command | Aliases | Description | Arguments | Example
 For all text commands, the argument is the text to manipulate.
 
 Command | Aliases | Description
----|---|---|---|---
+---|---|---
 `bend` | none | ʍąҟҽʂ աҽìɾժ էҽ×է Ӏìҟҽ էհìʂ
 `bubbles` | none | ⓟⓤⓣⓢ ⓣⓔⓧⓣ ⓘⓝ ⓑⓤⓑⓑⓛⓔⓢ
 `fliptext` | none | uʍop ǝpısdn ʇxǝʇ sdılɟ
 `mirror` | none | ƚxɘƚ ꙅɿoɿɿim
 `tiny` | `tinycaps` | ᴍᴀᴋᴇꜱ ᴛᴇxᴛ ɪɴᴛᴏ ᴛɪɴʏ ᴄᴀᴘꜱ
-`zalgo` | `creepify` | m̷̳͌a̴̱͛k̷͇̐ë̵̥́s̶̰̀ ̴̨̇z̶̙̆a̵̝̓l̴͇̀ǧ̸̯o̸̞̅ ̶́͜ť̵̤ë̸̼́x̸̯̊t̷̬͒
+`zalgo` | `creepify` | m̷̳͌a̴̱͛k̷͇̐ë̵̥́s̶̰̀ ̴̨̇z̶̙̆a̵̝̓l̴͇̀ǧ̸̯o̸̞̅ ̶́͜ť̵̤ë̸̼́x̸̯̊t̷̬͒
 
 ## ℹ️ Info Commands
 
