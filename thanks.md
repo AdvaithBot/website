@@ -9,4 +9,4 @@
 
 I hope you enjoy using AdvaithBot, if you have any issues or questions, please join [the server](https://discord.gg/amqCFZJ) and I'll be able to help you there! <img class="emoji" draggable="false" class="emoji" alt="😃" src="https://twemoji.maxcdn.com/v/latest/svg/1f609.svg">
 
-- [advaith](https://advaith.fun), the dev of AdvaithBot
+\- [advaith](https://advaith.io), the dev of AdvaithBot
