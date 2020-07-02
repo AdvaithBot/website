@@ -19,4 +19,3 @@ Also see [Discord's Privacy Policy](https://discord.com/privacy).
 Thanks for using AdvaithBot!
 
 [Homepage](/)
-
