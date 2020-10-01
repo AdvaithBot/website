@@ -1,3 +1,5 @@
+# AdvaithBot - An Astonishing Project
+
 Welcome to the AdvaithBot website.
 
 AdvaithBot is a multipurpose Discord bot.
