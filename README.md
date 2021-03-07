@@ -6,14 +6,16 @@ AdvaithBot has received a huge update with lots of new commands and features! Ch
 
 <a href="invite" target="_blank" rel="noopener">Add AdvaithBot to your server!</a>
 
-<a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="Discord"></noscript></amp-img></a>
+<a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discord.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discord.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="Discord"></noscript></amp-img></a>
 <a href="https://botsfordiscord.com/bot/398690824721924107/vote" target="_blank" rel="noopener"><amp-img class="rounded" src="https://botsfordiscord.com/api/bot/398690824721924107/widget?theme=dark" alt="Bots for Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://botsfordiscord.com/api/bot/398690824721924107/widget?theme=dark" width="300" height="150" alt="Bots for Discord"></noscript></amp-img></a>
-<!--<a href="https://bots.ondiscord.xyz/bots/398690824721924107" target="_blank" rel="noopener"><amp-img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&amp;showGuilds=true" alt="Bots on Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://bots.ondiscord.xyz/bots/398690824721924107/embed?theme=dark&amp;showGuilds=true" width="300" height="150" alt="Bots on Discord"></noscript></amp-img></a>-->
 <a href="https://discordbotlist.com/bots/398690824721924107/upvote" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" alt="Discord Bot List" layout="fixed" height="140" width="380"><noscript><img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" width="380" height="140" alt="Discord Bot List"></noscript></amp-img></a>
 
 # Try it out!
 Type `!!help` to get started.
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+
+# Slash Commands
+AdvaithBot now supports [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ)! If slash commands are enabled on your server, typing `/` should show some of AdvaithBot's commands. If the bot is in your server but slash commands are not yet enabled, [re-add the bot](invite) and they should show. The most popular commands are now available as slash commands, and more will continually be added in the future.
 
 # Commands
 The prefix for all commands is `!!` by default. Set a custom server prefix with the `prefix` command!
@@ -160,4 +162,4 @@ Command | Description | Example
 
 AdvaithBot was created by [advaith](https://advaith.io).
 
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
