@@ -160,6 +160,6 @@ Command | Description | Example
 `/tableflip` | Appends (╯°□°）╯︵ ┻━┻ to your message | `/tableflip`
 `/unflip` | Appends ┬─┬ ノ( ゜-゜ノ) to your message | `/unflip`
 
-AdvaithBot was created by [advaith](https://advaith.io).
+AdvaithBot was created by [advaith from narain at predio. 2880.](https://advaith.io).
 
 <amp-iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://emerald.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
